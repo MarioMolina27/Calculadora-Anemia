@@ -16,10 +16,10 @@ public class CalculadoraAnemia {
                                NIVELL_MIN3 = 12,
                                NIVELL_MIN4 = 14;
     
-    public static final double NIVELL_MAX1 = 15,
+    public static final double NIVELL_MAX1 = 18,
                                NIVELL_MAX2 = 15.5,
                                NIVELL_MAX3 = 16,
-                               NIVELL_MAX4 = 18;
+                               NIVELL_MAX4 = 15;
     
     public static void main(String[] args) {
         int edat;
